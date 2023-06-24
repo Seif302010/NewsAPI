@@ -1,0 +1,12 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using NewsAPI.Data;
+global using NewsAPI.Models;
+global using NewsAPI.Models.AuthorizationModels;
+global using NewsAPI.Helpers;
+global using NewsAPI.Services;
+global using NewsAPI.Services.AuthorizationServices;
+global using NewsAPI.Dtos;
+global using AutoMapper;
